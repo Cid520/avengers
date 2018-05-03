@@ -1,5 +1,6 @@
 # Miembros
 
+* Deku
 * Capitán America
 * Black panther
 * Black Widow
